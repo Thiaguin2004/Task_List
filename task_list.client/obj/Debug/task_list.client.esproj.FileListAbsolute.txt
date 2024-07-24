@@ -1,0 +1,1 @@
+C:\Users\thiag\source\repos\Task_List\task_list.client\obj\Debug\task_list.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\thiag\\source\\repos\\Task_List\\Task_List.Server\\..\\task_list.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
