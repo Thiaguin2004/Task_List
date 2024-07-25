@@ -1,3 +1,8 @@
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Task_List.Server;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -9,6 +14,11 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddCors();
 
 var app = builder.Build();
+
+var connectionString = "Host=localhost;Port=5432;Pooling=true;Database=pg_toast;User Id=postgres;Password=25252525Aa;";
+
+builder.Services.AddEntityFrameworkNpgsql()
+             .AddDbContext<UsuarioContext>(options => options.UseNpgsql(connectionString));
 
 app.UseDefaultFiles();
 app.UseStaticFiles();

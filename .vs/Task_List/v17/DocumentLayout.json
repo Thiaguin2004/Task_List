@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thiag\\source\\repos\\Task_List\\",
+  "WorkspaceRootPath": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62111282-556C-4536-9513-A006607373D5}|Task_List.Server\\Task_List.Server.csproj|c:\\users\\thiag\\source\\repos\\task_list\\task_list.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62111282-556C-4536-9513-A006607373D5}|Task_List.Server\\Task_List.Server.csproj|c:\\users\\thiago\\documents\\github\\task_list\\task_list.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62111282-556C-4536-9513-A006607373D5}|Task_List.Server\\Task_List.Server.csproj|solutionrelative:task_list.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95043945-91B4-4931-A5FB-C5425099923B}|task_list.client\\task_list.client.esproj|c:\\users\\thiag\\source\\repos\\task_list\\task_list.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95043945-91B4-4931-A5FB-C5425099923B}|task_list.client\\task_list.client.esproj|solutionrelative:task_list.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{62111282-556C-4536-9513-A006607373D5}|Task_List.Server\\Task_List.Server.csproj|c:\\users\\thiago\\documents\\github\\task_list\\task_list.server\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62111282-556C-4536-9513-A006607373D5}|Task_List.Server\\Task_List.Server.csproj|solutionrelative:task_list.server\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95043945-91B4-4931-A5FB-C5425099923B}|task_list.client\\task_list.client.esproj|c:\\users\\thiag\\source\\repos\\task_list\\task_list.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{95043945-91B4-4931-A5FB-C5425099923B}|task_list.client\\task_list.client.esproj|solutionrelative:task_list.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{62111282-556C-4536-9513-A006607373D5}|Task_List.Server\\Task_List.Server.csproj|c:\\users\\thiago\\documents\\github\\task_list\\task_list.server\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62111282-556C-4536-9513-A006607373D5}|Task_List.Server\\Task_List.Server.csproj|solutionrelative:task_list.server\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95043945-91B4-4931-A5FB-C5425099923B}|task_list.client\\task_list.client.esproj|c:\\users\\thiag\\source\\repos\\task_list\\task_list.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{62111282-556C-4536-9513-A006607373D5}|Task_List.Server\\Task_List.Server.csproj|c:\\users\\thiago\\documents\\github\\task_list\\task_list.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62111282-556C-4536-9513-A006607373D5}|Task_List.Server\\Task_List.Server.csproj|solutionrelative:task_list.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95043945-91B4-4931-A5FB-C5425099923B}|task_list.client\\task_list.client.esproj|c:\\users\\thiago\\documents\\github\\task_list\\task_list.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{95043945-91B4-4931-A5FB-C5425099923B}|task_list.client\\task_list.client.esproj|solutionrelative:task_list.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62111282-556C-4536-9513-A006607373D5}|Task_List.Server\\Task_List.Server.csproj|c:\\users\\thiag\\source\\repos\\task_list\\task_list.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62111282-556C-4536-9513-A006607373D5}|Task_List.Server\\Task_List.Server.csproj|solutionrelative:task_list.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95043945-91B4-4931-A5FB-C5425099923B}|task_list.client\\task_list.client.esproj|c:\\users\\thiago\\documents\\github\\task_list\\task_list.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95043945-91B4-4931-A5FB-C5425099923B}|task_list.client\\task_list.client.esproj|solutionrelative:task_list.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95043945-91B4-4931-A5FB-C5425099923B}|task_list.client\\task_list.client.esproj|c:\\users\\thiago\\documents\\github\\task_list\\task_list.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95043945-91B4-4931-A5FB-C5425099923B}|task_list.client\\task_list.client.esproj|solutionrelative:task_list.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\Task_List\\Task_List.Server\\Program.cs",
-              "RelativeDocumentMoniker": "Task_List.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\thiag\\source\\repos\\Task_List\\Task_List.Server\\Program.cs",
-              "RelativeToolTip": "Task_List.Server\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "UsuarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\Task_List.Server\\UsuarioContext.cs",
+              "RelativeDocumentMoniker": "Task_List.Server\\UsuarioContext.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\Task_List.Server\\UsuarioContext.cs",
+              "RelativeToolTip": "Task_List.Server\\UsuarioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T20:04:04.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T18:11:52.983Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\Task_List\\task_list.client\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "task_list.client\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\thiag\\source\\repos\\Task_List\\task_list.client\\src\\app\\app.module.ts",
-              "RelativeToolTip": "task_list.client\\src\\app\\app.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-07-24T19:54:02.963Z",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\Task_List.Server\\Usuario.cs",
+              "RelativeDocumentMoniker": "Task_List.Server\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\Task_List.Server\\Usuario.cs",
+              "RelativeToolTip": "Task_List.Server\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:10:57.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\Task_List.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Task_List.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\Task_List.Server\\Program.cs",
+              "RelativeToolTip": "Task_List.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:04:42.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "app.component.ts",
-              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\Task_List\\task_list.client\\src\\app\\app.component.ts",
-              "RelativeDocumentMoniker": "task_list.client\\src\\app\\app.component.ts",
-              "ToolTip": "C:\\Users\\thiag\\source\\repos\\Task_List\\task_list.client\\src\\app\\app.component.ts",
-              "RelativeToolTip": "task_list.client\\src\\app\\app.component.ts",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBYAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-07-24T19:52:55.417Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\Task_List.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Task_List.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\Task_List.Server\\appsettings.json",
+              "RelativeToolTip": "Task_List.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T18:04:02.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\Task_List\\task_list.client\\src\\app\\app.component.html",
-              "RelativeDocumentMoniker": "task_list.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\thiag\\source\\repos\\Task_List\\task_list.client\\src\\app\\app.component.html",
-              "RelativeToolTip": "task_list.client\\src\\app\\app.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-24T19:42:29.313Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\task_list.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "task_list.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\task_list.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "task_list.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-24T19:54:02.963Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\Task_List\\Task_List.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Task_List.Server\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\thiag\\source\\repos\\Task_List\\Task_List.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Task_List.Server\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T19:29:45.746Z",
-              "EditorCaption": ""
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\task_list.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "task_list.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\task_list.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "task_list.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-24T19:52:55.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\task_list.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "task_list.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\task_list.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "task_list.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-24T19:42:29.313Z"
             }
           ]
         }

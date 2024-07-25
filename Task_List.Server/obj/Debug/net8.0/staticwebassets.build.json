@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "EYn0ly6acRpnRiPUlJZ5CJORIpAkVW/DSl3NoN8cHIA=",
+  "Hash": "RQNd1XVQAH07zqAHLPyGHvpYaSlXz6BLamSAGZpizQA=",
   "Source": "Task_List.Server",
   "BasePath": "_content/Task_List.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\thiag\\source\\repos\\Task_List\\task_list.client\\task_list.client.esproj",
+      "Identity": "C:\\Users\\Thiago\\Documents\\GitHub\\Task_List\\task_list.client\\task_list.client.esproj",
       "Version": 2,
       "Source": "task_list.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
