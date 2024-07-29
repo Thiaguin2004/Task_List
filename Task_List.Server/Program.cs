@@ -7,10 +7,8 @@ using Task_List.Server.Contexto;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Defina a string de conexão diretamente
 var connectionString = "Host=localhost;Port=5432;Pooling=true;Database=Keevo;User Id=postgres;Password=25252525Aa;";
 
-// Configure o serviço do DbContext com a string de conexão diretamente
 builder.Services.AddDbContext<Context>(options =>
     options.UseNpgsql(connectionString));
 
