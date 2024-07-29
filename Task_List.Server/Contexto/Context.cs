@@ -9,7 +9,6 @@ namespace Task_List.Server.Contexto
             base(options)
         {
         }
-
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Projeto> Projetos { get; set; }
         public DbSet<Recurso> Recursos { get; set; }

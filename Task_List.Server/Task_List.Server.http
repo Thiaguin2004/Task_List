@@ -1,6 +1,6 @@
 @Task_List.Server_HostAddress = http://localhost:5059
 
-GET {{Task_List.Server_HostAddress}}/weatherforecast/
+GET {{Task_List.Server_HostAddress}}/
 Accept: application/json
 
 ###
